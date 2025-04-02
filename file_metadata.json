@@ -1,0 +1,22 @@
+{
+    "index.html": {
+      "name": "index.html",
+      "description": "HTML file for the game"
+    },
+    "src/main.ts": {
+      "name": "main.ts",
+      "description": "Main TypeScript entry file that initializes the game"
+    },
+    "tsconfig.json": {
+        "name": "tsconfig.json",
+        "description": "Typescript configuration file"
+      },
+    "package.json": {
+        "name": "package.json",
+        "description": "Node.js package configuration file"
+      },
+    "vite.config.ts": {
+        "name": "vite.config.ts",
+        "description": "Vite configuration file"
+      }
+  }

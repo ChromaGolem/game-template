@@ -1,0 +1,17 @@
+{
+    "name": "user-game-name-here",
+    "version": "1.0.0",
+    "description": "USER ENTER DESCRIPTION OF GAME HERE",
+    "scripts": {
+      "dev": "vite",
+      "build": "vite build",
+      "preview": "vite preview"
+    },
+    "dependencies": {
+      "three": "latest"
+    },
+    "devDependencies": {
+      "typescript": "latest",
+      "vite": "latest"
+    }
+  }
