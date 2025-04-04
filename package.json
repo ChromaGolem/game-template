@@ -11,6 +11,7 @@
       "three": "latest"
     },
     "devDependencies": {
+      "@types/three": "latest",
       "typescript": "latest",
       "vite": "latest"
     }
