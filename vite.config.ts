@@ -2,6 +2,9 @@ import { defineConfig } from 'vite'
 import path from 'path'
 
 export default defineConfig({
+  server: {
+    host: '0.0.0.0',
+  },
   base: './', // Use relative paths (important if you're deploying somewhere like file:// or subdirectories)
   build: {
     outDir: 'dist',
