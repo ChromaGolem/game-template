@@ -3,16 +3,17 @@
     "version": "1.0.0",
     "description": "USER ENTER DESCRIPTION OF GAME HERE",
     "scripts": {
-      "dev": "vite",
-      "build": "vite build",
-      "preview": "vite preview"
+        "dev": "vite",
+        "build": "vite build",
+        "preview": "vite preview"
     },
     "dependencies": {
-      "three": "latest"
+        "three": "latest"
     },
     "devDependencies": {
-      "@types/three": "latest",
-      "typescript": "latest",
-      "vite": "latest"
+        "@types/node": "^22.14.0",
+        "@types/three": "latest",
+        "typescript": "latest",
+        "vite": "latest"
     }
-  }
+}
