@@ -8,8 +8,7 @@
         "preview": "vite preview"
     },
     "dependencies": {
-        "three": "latest",
-        "vite": "latest"
+        "three": "latest"
     },
     "devDependencies": {
         "@types/node": "^22.14.0",
