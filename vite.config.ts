@@ -1,7 +1,6 @@
-import { defineConfig } from 'vite'
 import path from 'path'
 
-export default defineConfig({
+export default {
   server: {
     host: '0.0.0.0',
   },
@@ -24,4 +23,4 @@ export default defineConfig({
       '@': path.resolve(__dirname, 'src'),
     },
   },
-})
+}
